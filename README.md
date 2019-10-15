@@ -1,7 +1,7 @@
 # Introdução à Computação (IF668) - Projeto LaTeX
 
 Neste trabalho, você deverá fazer um documento sobre uma das disciplinas do CIn. 
-Seu documento deve ser feito em LaTeX e usar o template exemplo disponível no [Overleaf] . 
+Seu documento deve ser feito em LaTeX e usar o template exemplo disponível no [Overleaf](https://pt.overleaf.com/). 
 O trabalho deve falar sobre uma das disciplinas do CIn-UFPE e a lista de disciplinas que podem ser escolhidas está disponível no [site da disciplina](https://cin.ufpe.br/~if668). 
 
 Cada aluno deve escolher um tema. Neste trabalho, porém, é possível que até dois alunos escolham a mesma disciplina. Antes de escolher a disciplina sobre a qual fará o trabalho, é importante se informar um pouco sobre ela e outras disciplinas que também podem ser interessantes. Para tanto, é possível, por exemplo, dar uma olhada no perfil curricular do curso de Ciência da Computação. Além disso, muitas disciplinas usam como homepage o endereço http://www.cin.ufpe.br/~código. Por exemplo, a disciplina de Paradigmas de Linguagens Computacionais, cujo código é if686, tem sua homepage em [http://www.cin.ufpe.br/~if686](http://www.cin.ufpe.br/~if686). Dessa forma torna-se possível se informar de maneira mais completa e atual. Por fim, você pode dar uma olhada na grade de horários do semestre, que se encontra na página da Secretaria de Graduação (~secgrad) e descobrir quem é o professor e até assistir uma aula para ver como é. 
@@ -13,8 +13,6 @@ Cada aluno deve escolher um tema. Neste trabalho, porém, é possível que até 
 4. Adicione o conteúdo do seu projeto na pasta (Lembre-se que 3 arquivos devem estar na pasta: seulogin.pdf, seulogin.tex e seulogin.bib);
 5. Adicione as alterações no repositório e realize o commit e o push;
 6. Solicite o pull request através do GitHub.
-
-- Recomendamos utilizar o [Overleaf](https://pt.overleaf.com) para elaborar seu projeto.
 
 ## FAQ
 
