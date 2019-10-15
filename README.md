@@ -8,6 +8,8 @@
 5. Adicione as alterações no repositório e realize o commit e o push;
 6. Solicite o pull request através do GitHub.
 
+- Recomendamos utilizar o [Overleaf](https://pt.overleaf.com) para elaborar seu projeto.
+
 ## FAQ
 
 > Posso adicionar os arquivos com o nome diferente do meu login?
@@ -16,11 +18,15 @@ Você pode adicionar **apenas** imagens na pasta seu projeto, desde que sejam us
 
 > Erros de ortografia e gramática serão descontados na nota?
 
-Sim, por se tratar de um documento acadêmico, erros desse tipo serão contados.
+Sim. Por se tratar de um documento acadêmico, erros desse tipo serão contados.
 
 > Tenho direito a quantos pull requests antes de descontarem pontos na minha nota pelos meus erros?
 
 Você tem direito a até 4 pull requests sem descontar os erros em sua nota. A partir do 5º, cada erro descrito nas especificações custará um ponto.
 
-## [Especificação](https://github.com/monitoria-ic-cc-ufpe/Projeto_WebDev_2019.2/blob/master/Especifica%C3%A7%C3%A3o.pdf)
+> Posso fazer mais de 2 páginas?
+
+Não. O documento precisa ter **exatamente** 2 páginas.
+
+## [Especificação](https://github.com/monitoria-ic-cc-ufpe/Projeto_Latex_2019.2/blob/master/Especifica%C3%A7%C3%A3o.pdf)
 
